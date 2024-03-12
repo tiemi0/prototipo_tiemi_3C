@@ -2,8 +2,8 @@
 :root {
     --cor-de-fundo: #c3f0ea;
     --verde: #6FFF57;
-    --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --branco: #ffffff;
+    --botao-ativo: #dddaff;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
